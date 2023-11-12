@@ -44,4 +44,4 @@ tsdf_values, color_values = tsdf.fusion(depth_images,   # depth images: N frames
 ## References
 Original Paper: [A Volumetric Method for Building Complex Models from Range Images (SIGGRAPH 1996)](https://graphics.stanford.edu/papers/volrange/volrange.pdf).
 
-This code is based on TSDF algorithm in python: https://github.com/andyzeng/tsdf-fusion-python.
+This code is based on the TSDF algorithm in python: https://github.com/andyzeng/tsdf-fusion-python.
