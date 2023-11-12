@@ -23,7 +23,7 @@ python setup.py install
 
 
 ## Use
-You can fuse depth and rgb images into TSDF values.
+You can fuse depth and rgb images into TSDF values via following code.
 
 Currently, color integration is not implemented. I will update it soon.
 
